@@ -122,17 +122,20 @@ tech_challenge_data_analytics/
 **Pré-requisitos:** Python 3.8+, Jupyter Notebook ou JupyterLab
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/GusthavoSoares/tech_challenge_data_analytics.git
    cd tech_challenge_data_analytics
    ```
 
 2. Instale as dependências necessárias:
+
    ```bash
-  pip install pandas numpy matplotlib seaborn pyspark
+   pip install pandas numpy matplotlib seaborn pyspark
    ```
 
 3. Abra o ambiente Jupyter:
+
    ```bash
    jupyter notebook
    ```
