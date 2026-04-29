@@ -149,11 +149,11 @@ tech_challenge_data_analytics/
 
 ## Autores
 
-| Nome | Área de Análise |
+| Nome | RM | Área de Análise |
 |---|---|
-| Alexandre de Souza Amorim | RM372077 | Receita e Crescimento por Categoria |
-| Allison Lima | RM372648 | Regiões de Maior Rentabilidade |
-| Caio Rodrigues Bosnic Barbosa | RM372603 | Logística e Rentabilidade por Região |
-| Gusthavo Lourenço Rios Soares | RM371911 | Preços e Avaliações de Clientes |
+| Alexandre de Souza Amorim | 372077 | Receita e Crescimento por Categoria |
+| Allison Lima | 372648 | Regiões de Maior Rentabilidade |
+| Caio Rodrigues Bosnic Barbosa | 372603 | Logística e Rentabilidade por Região |
+| Gusthavo Lourenço Rios Soares | 371911 | Preços e Avaliações de Clientes |
 
 **FIAP – Pós-Tech em Data Analytics**
