@@ -124,7 +124,7 @@ tech_challenge_data_analytics/
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/GusthavoSoares/tech_challenge_data_analytics.git
+   git clone https://github.com/caiobosnic/tech_challenge_data_analytics_caio.git
    cd tech_challenge_data_analytics
    ```
 
@@ -155,16 +155,16 @@ Os notebooks podem ser executados diretamente no Google Colab, sem necessidade d
 ### 📊 Análises
 
 - Receita e Categorias  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GusthavoSoares/tech_challenge_data_analytics/blob/main/notebooks/analise_Receita_Olist_TechChallenge_Alexandre_Amorim.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caiobosnic/tech_challenge_data_analytics_caio/blob/main/notebooks/analise_Receita_Olist_TechChallenge_Alexandre_Amorim.ipynb)
 
 - Logística e Rentabilidade  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GusthavoSoares/tech_challenge_data_analytics/blob/main/notebooks/analise_logistica_rentabilidade_regioes_Caio_Bosnic.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caiobosnic/tech_challenge_data_analytics_caio/blob/main/notebooks/analise_logistica_rentabilidade_regioes_Caio_Bosnic.ipynb)
 
 - Preços e Avaliações  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GusthavoSoares/tech_challenge_data_analytics/blob/main/notebooks/analise_precos_por_nota_Gusthavo_Soares.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caiobosnic/tech_challenge_data_analytics_caio/blob/main/notebooks/analise_precos_por_nota_Gusthavo_Soares.ipynb)
 
 - Rentabilidade por Região  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GusthavoSoares/tech_challenge_data_analytics/blob/main/notebooks/regioes_maiores_rentabilidade_Allison_Lima.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caiobosnic/tech_challenge_data_analytics_caio/blob/main/notebooks/regioes_maiores_rentabilidade_Allison_Lima.ipynb)
 
 > Nota: pode ser necessário ajustar os caminhos dos arquivos ou fazer upload manual dos dados no ambiente do Colab.
 
